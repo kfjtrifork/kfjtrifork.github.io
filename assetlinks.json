@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kfjtrifork.reepaytest",
+    "sha256_cert_fingerprints":
+    ["F7:2E:3D:D0:F1:8D:7D:9A:2E:12:BE:C2:7A:BC:91:95:DA:7A:AE:2D:15:B8:63:B4:1F:06:0D:99:18:40:2C:3A"]
+  }
+}]
